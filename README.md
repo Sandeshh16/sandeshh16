@@ -5,7 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Hello%20There!%20👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-# 👨‍💻 Hi, I'm [Sandesh]!
+# 👨‍💻 Hi, I'm Sandesh!
 
 I'm a passionate Data Scientist Trainee specialize in transforming raw data into actionable insights using Python, SQL, and powerful visualization tools.
 
