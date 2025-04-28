@@ -7,7 +7,7 @@
 
 # 👨‍💻 Hi, I'm Sandesh!
 
-I'm a passionate Data Scientist Trainee specialize in transforming raw data into actionable insights using Python, SQL, and powerful visualization tools.
+A passionate Data Scientist Trainee specialize in transforming raw data into actionable insights using Python, SQL, and powerful visualization tools.
 
 ---
 
